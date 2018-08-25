@@ -1,0 +1,18 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Nicolas Grisouard, nicolas.grisouard@physics.utoronto.ca}
+((* endblock author *))
+
+((* block title *))
+\title{Chapter 6 - Travelling (or Propagating) Waves}
+((* endblock title *))
+
+((* block date *))
+\date{13 and 16 October 2017}
+((* endblock date *))
+
+%((* block bibliography *))
+%\bibliographystyle{plain}
+%\bibliography{/Users/NicoG/Documents/library}
+%((* endblock bibliography *))
