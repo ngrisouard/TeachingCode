@@ -1,6 +1,6 @@
-# Readme
+# Companion GitHub repository for Nicolas Grisouard's tenure application
 
-This repository contains all content related to the tenure review of Nicolas Grisouard, at the University of Toronto.
+This repository contains all content related to the tenure review of Nicolas Grisouard (University of Toronto, Department of Physics).
 
 **On authorship of lecture notes:** lecture notes are not like articles or books. An instructor inherits a sets of notes from a colleague, and re-uses a lot of it, saving time, perpetuating departmental traditions, and allowing students to benefit from tried and tested material. Also, the goal is to explicitely transmit students *old* knowledge, not create new one. As such, I cannot claim sole authorship on these lecture notes. While lecture notes for PHY293 are entirely original, those for PHY407 and PHY254 drew inspriation from lecture notes, written by previous colleagues.
 
